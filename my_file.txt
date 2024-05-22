@@ -1,0 +1,7 @@
+This is line 1.
+Line 2: 12345
+Last line of text.
+
+Additional line 1.
+Line 6: 67890
+Another new line added.
